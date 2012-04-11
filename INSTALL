@@ -1,0 +1,10 @@
+Installation instructions
+-------------------------
+
+A Makefile for GNU make is provided.
+
+$ make
+
+will build simplebf executable for your platform. No "install"
+target is in the makefile. For installation, copy the simplebf
+executable anywhere in your $PATH
